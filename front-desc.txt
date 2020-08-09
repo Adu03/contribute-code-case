@@ -1,1 +1,3 @@
 A collection of projects made with Vue.js – Websites, UI Components, Frameworks, Apps and more!
+A collection of projects made with Vue.js – Websites, UI Components, Frameworks, Apps and more!
+A collection of projects made with Vue.js – Websites, UI Components, Frameworks, Apps and more!
